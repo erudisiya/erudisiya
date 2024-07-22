@@ -1,3 +1,4 @@
+![logo](https://github.com/erudisiya/erudisiya/blob/main/consultation1.png)
 <h1 align="center">Hi 👋, I am Sandipa Mukherjee</h1>
 <h3 align="center">A Moodle Full-stack developer from Erudisiya PVT LTD IN</h3>
 <img src = "https://erudisiya.com/2778464.jpg" align = "left" alt="moodle-developer" width = "350">
