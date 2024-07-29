@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erudisiya" alt="erudisiya" /></a> </p>
 
-- 🌱 I’m currently learning **Moodle**
+- 🌱 I’m dedicated **Moodle** Developer & E-learning Consultant.
 
 - 👨‍💻 All of my projects are available at [https://erudisiya.com/portofolio/](https://erudisiya.com/portofolio/)
 
